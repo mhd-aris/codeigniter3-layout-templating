@@ -1,3 +1,5 @@
+*This repository is a college assignment for the Web Design course, focusing on the design and development of a web project using CodeIgniter 3.*
+
 ###################
 What is CodeIgniter
 ###################
